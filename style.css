@@ -1,0 +1,14 @@
+span {
+    border:blue solid;
+}
+
+p{
+    border: lime solid;
+}
+body{
+    border: red solid;
+}
+
+html {
+    border: green solid;
+}
